@@ -1,0 +1,15 @@
+C:\Users\newmi\source\repos\lab1.2\lab1.2\bin\Debug\net10.0\lab1.2.exe
+C:\Users\newmi\source\repos\lab1.2\lab1.2\bin\Debug\net10.0\lab1.2.deps.json
+C:\Users\newmi\source\repos\lab1.2\lab1.2\bin\Debug\net10.0\lab1.2.runtimeconfig.json
+C:\Users\newmi\source\repos\lab1.2\lab1.2\bin\Debug\net10.0\lab1.2.dll
+C:\Users\newmi\source\repos\lab1.2\lab1.2\bin\Debug\net10.0\lab1.2.pdb
+C:\Users\newmi\source\repos\lab1.2\lab1.2\obj\Debug\net10.0\lab1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\newmi\source\repos\lab1.2\lab1.2\obj\Debug\net10.0\lab1.2.AssemblyInfoInputs.cache
+C:\Users\newmi\source\repos\lab1.2\lab1.2\obj\Debug\net10.0\lab1.2.AssemblyInfo.cs
+C:\Users\newmi\source\repos\lab1.2\lab1.2\obj\Debug\net10.0\lab1.2.csproj.CoreCompileInputs.cache
+C:\Users\newmi\source\repos\lab1.2\lab1.2\obj\Debug\net10.0\lab1.2.dll
+C:\Users\newmi\source\repos\lab1.2\lab1.2\obj\Debug\net10.0\refint\lab1.2.dll
+C:\Users\newmi\source\repos\lab1.2\lab1.2\obj\Debug\net10.0\lab1.2.pdb
+C:\Users\newmi\source\repos\lab1.2\lab1.2\obj\Debug\net10.0\lab1.2.genruntimeconfig.cache
+C:\Users\newmi\source\repos\lab1.2\lab1.2\obj\Debug\net10.0\ref\lab1.2.dll
+C:\Users\newmi\source\repos\lab1.2\lab1.2\obj\Debug\net10.0\lab1.2.csproj.Up2Date
