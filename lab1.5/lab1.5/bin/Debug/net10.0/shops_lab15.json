@@ -1,0 +1,191 @@
+[
+  {
+    "Name": "BookLand",
+    "Address": "Dnipro, Central Avenue 30",
+    "Specialization": "Books",
+    "Phones": [
+      "\u002B380661234567"
+    ],
+    "Schedule": [
+      {
+        "Day": "Monday",
+        "Hours": "09:00-13:00,14:00-18:00"
+      },
+      {
+        "Day": "Tuesday",
+        "Hours": "09:00-13:00,14:00-18:00"
+      },
+      {
+        "Day": "Wednesday",
+        "Hours": "09:00-13:00,14:00-18:00"
+      },
+      {
+        "Day": "Thursday",
+        "Hours": "09:00-13:00,14:00-18:00"
+      },
+      {
+        "Day": "Friday",
+        "Hours": "09:00-13:00,14:00-18:00"
+      },
+      {
+        "Day": "Saturday",
+        "Hours": "09:00-13:00,14:00-18:00"
+      },
+      {
+        "Day": "Sunday",
+        "Hours": "09:00-13:00,14:00-18:00"
+      }
+    ]
+  },
+  {
+    "Name": "FoodMarket",
+    "Address": "Odesa, Deribasivska Street 10",
+    "Specialization": "Grocery Store",
+    "Phones": [
+      "\u002B380991112233"
+    ],
+    "Schedule": [
+      {
+        "Day": "Monday",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "Day": "Tuesday",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "Day": "Wednesday",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "Day": "Thursday",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "Day": "Friday",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "Day": "Saturday",
+        "Hours": "08:00-21:00"
+      },
+      {
+        "Day": "Sunday",
+        "Hours": "08:00-21:00"
+      }
+    ]
+  },
+  {
+    "Name": "GameZone",
+    "Address": "Kyiv, Khreshchatyk Street 15",
+    "Specialization": "Video Games",
+    "Phones": [
+      "\u002B380501112233",
+      "\u002B380671234567"
+    ],
+    "Schedule": [
+      {
+        "Day": "Monday",
+        "Hours": "09:00-20:00"
+      },
+      {
+        "Day": "Tuesday",
+        "Hours": "09:00-20:00"
+      },
+      {
+        "Day": "Wednesday",
+        "Hours": "09:00-20:00"
+      },
+      {
+        "Day": "Thursday",
+        "Hours": "09:00-20:00"
+      },
+      {
+        "Day": "Friday",
+        "Hours": "09:00-20:00"
+      },
+      {
+        "Day": "Saturday",
+        "Hours": "09:00-20:00"
+      },
+      {
+        "Day": "Sunday",
+        "Hours": "09:00-20:00"
+      }
+    ]
+  },
+  {
+    "Name": "SportWorld",
+    "Address": "Kharkiv, Sumska Street 45",
+    "Specialization": "Sports Equipment",
+    "Phones": [],
+    "Schedule": [
+      {
+        "Day": "Monday",
+        "Hours": "10:00-20:00"
+      },
+      {
+        "Day": "Tuesday",
+        "Hours": "10:00-20:00"
+      },
+      {
+        "Day": "Wednesday",
+        "Hours": "10:00-20:00"
+      },
+      {
+        "Day": "Thursday",
+        "Hours": "10:00-20:00"
+      },
+      {
+        "Day": "Friday",
+        "Hours": "10:00-20:00"
+      },
+      {
+        "Day": "Saturday",
+        "Hours": "10:00-20:00"
+      },
+      {
+        "Day": "Sunday",
+        "Hours": "10:00-20:00"
+      }
+    ]
+  },
+  {
+    "Name": "TechWorld",
+    "Address": "Lviv, Svobody Avenue 22",
+    "Specialization": "Electronics",
+    "Phones": [
+      "\u002B380931234567"
+    ],
+    "Schedule": [
+      {
+        "Day": "Monday",
+        "Hours": "10:00-19:00"
+      },
+      {
+        "Day": "Tuesday",
+        "Hours": "10:00-19:00"
+      },
+      {
+        "Day": "Wednesday",
+        "Hours": "10:00-19:00"
+      },
+      {
+        "Day": "Thursday",
+        "Hours": "10:00-19:00"
+      },
+      {
+        "Day": "Friday",
+        "Hours": "10:00-19:00"
+      },
+      {
+        "Day": "Saturday",
+        "Hours": "10:00-19:00"
+      },
+      {
+        "Day": "Sunday",
+        "Hours": "Closed"
+      }
+    ]
+  }
+]

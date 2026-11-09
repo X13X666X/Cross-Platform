@@ -1,0 +1,117 @@
+[
+  {
+    "Name": "BookLand",
+    "Address": "Dnipro, Central Avenue 30",
+    "Phones": [
+      "\u002B380661234567"
+    ],
+    "Specialization": "Books",
+    "Schedule": [
+      {
+        "Day": "Monday",
+        "Hours": "09:00-18:00"
+      },
+      {
+        "Day": "Tuesday",
+        "Hours": "09:00-18:00"
+      },
+      {
+        "Day": "Wednesday",
+        "Hours": "09:00-18:00"
+      },
+      {
+        "Day": "Thursday",
+        "Hours": "09:00-18:00"
+      },
+      {
+        "Day": "Friday",
+        "Hours": "09:00-18:00"
+      },
+      {
+        "Day": "Saturday",
+        "Hours": "09:00-18:00"
+      },
+      {
+        "Day": "Sunday",
+        "Hours": "09:00-18:00"
+      }
+    ]
+  },
+  {
+    "Name": "SportWorld",
+    "Address": "Odesa, Deribasivska Street 10",
+    "Phones": [
+      "\u002B380991112233"
+    ],
+    "Specialization": "Sports Equipment",
+    "Schedule": [
+      {
+        "Day": "Monday",
+        "Hours": "10:00-20:00"
+      },
+      {
+        "Day": "Tuesday",
+        "Hours": "10:00-20:00"
+      },
+      {
+        "Day": "Wednesday",
+        "Hours": "10:00-20:00"
+      },
+      {
+        "Day": "Thursday",
+        "Hours": "10:00-20:00"
+      },
+      {
+        "Day": "Friday",
+        "Hours": "10:00-20:00"
+      },
+      {
+        "Day": "Saturday",
+        "Hours": "10:00-20:00"
+      },
+      {
+        "Day": "Sunday",
+        "Hours": "10:00-20:00"
+      }
+    ]
+  },
+  {
+    "Name": "GameZone",
+    "Address": "Kyiv, Khreshchatyk Street 15",
+    "Phones": [
+      "\u002B380501112233",
+      "\u002B380671234567"
+    ],
+    "Specialization": "Video Games",
+    "Schedule": [
+      {
+        "Day": "Monday",
+        "Hours": "09:00-20:00"
+      },
+      {
+        "Day": "Tuesday",
+        "Hours": "09:00-20:00"
+      },
+      {
+        "Day": "Wednesday",
+        "Hours": "09:00-20:00"
+      },
+      {
+        "Day": "Thursday",
+        "Hours": "09:00-20:00"
+      },
+      {
+        "Day": "Friday",
+        "Hours": "09:00-20:00"
+      },
+      {
+        "Day": "Saturday",
+        "Hours": "09:00-20:00"
+      },
+      {
+        "Day": "Sunday",
+        "Hours": "09:00-20:00"
+      }
+    ]
+  }
+]
